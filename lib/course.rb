@@ -5,7 +5,7 @@ class Course
   
   @@all = []
   
-  def initialize
+  def initialize    
     @title = title
     @schedule = schedule
     @description = description
